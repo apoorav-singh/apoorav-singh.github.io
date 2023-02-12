@@ -1,6 +1,6 @@
 title: 'apoorav-singh.github.io'
 description: "A jekyll theme inspired by linux consoles for hackers, developers and script kiddies."
-baseurl: "/apoorav-singh.github.io"
+baseurl: ""
 url: "http://apoorav-singh.github.io"
 
 header_pages:
