@@ -33,3 +33,4 @@ gem "webrick", "~> 1.8"
 
 gem 'rexml', '~> 3.2', '>= 3.2.4'
 
+gem "github-pages", group: :jekyll_plugins
