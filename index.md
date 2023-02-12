@@ -8,7 +8,9 @@ permalink: /
 
 # Welcome
 
-![Wizard](img\wiz.png "Aha!")
+<p align="center" width="100%">
+<img src="img/wiz.png" width="150" height="150">
+</p>
 
 Welcome traveller. I see. . . you find intrest in my wares.
 
