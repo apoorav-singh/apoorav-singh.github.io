@@ -1,2 +1,2 @@
-# jekyll-theme-console demo
-This is a demo site for the jekyll-theme-console theme.
+# Personal Website based on jekyll-theme-console 
+Made out of demo site for the jekyll-theme-console theme.

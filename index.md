@@ -1,14 +1,13 @@
 ---
-title: /
+title: intrigued/
 layout: home
 permalink: /
 ---
 
-# Other Demo Pages
 
-[Dark](https://b2a3e8.github.io/jekyll-theme-console-demo-dark/)
-[Light](https://b2a3e8.github.io/jekyll-theme-console-demo-light/)
 
 # Welcome
 
-Bla bla bla bla. Bla bla bla bla bla bla bla bla.
+Welcome traveller. I see. . . you find intrest in my wares.
+
+Hi! my name is Apoorav. I am a PhD researcher at I.I.T. Delhi. My work focuses on cold atoms based sensors. Currently, I am part of CAQT lab at IIT Delhi. I am an aspiring maker-physicist. Electronics and engineering intrests me in general.
